@@ -1,4 +1,4 @@
-!!! Nur per Knopf an der Seite vom Commandblock aktiviren!
+!!! Nur per Knopf an der Seite vom Commandblock aktiviren!!!
 
 
 Platziere zuerst einen Befehlsblock [/give @s command_block] und gib den Befehl von 1. Command ein! Aktiviere den Befehlsblock!
